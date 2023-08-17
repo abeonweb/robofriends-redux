@@ -21,6 +21,7 @@
       "purpose": "any maskable"
     }
   ],
+  "id": "/robofriends-redux/index.html",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",
